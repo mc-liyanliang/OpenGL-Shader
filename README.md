@@ -1,2 +1,2 @@
 # OpenGL-Shader
-shader demo
+开发环境：Visual Studio2012

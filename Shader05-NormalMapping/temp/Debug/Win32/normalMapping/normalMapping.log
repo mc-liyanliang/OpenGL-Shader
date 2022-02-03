@@ -1,0 +1,77 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  glew.c
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stb_image.cpp
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(172,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(238,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(290,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(1544,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(2432,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(2472,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(2765,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(3051,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(3265,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\stb_image.cpp(3568,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\OpenGLWindow.h(41,9): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\OpenGLWindow.h(42,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\ModelBoxNM.hpp(203,90): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\ModelBoxNM.hpp(203,75): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\ModelBoxNM.hpp(203,60): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\ModelBoxNM.hpp(204,91): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\ModelBoxNM.hpp(204,76): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\ModelBoxNM.hpp(204,61): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\main.cpp(55,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\main.cpp(58,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\main.cpp(61,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\main.cpp(63,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\main.cpp(104,84): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\main.cpp(104,68): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\main.cpp(104,52): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\main.cpp(256,9): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\main.cpp(257,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\CELLMath.hpp(2773,22): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\CELLMath.hpp(2772): message : 在编译 类 模板 成员函数“CELL::tmat4x4<float> CELL::tmat4x4<float>::rotateYXZ(T,T,T)”时
+          with
+          [
+              T=float
+          ]
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\ModelBoxNM.hpp(190): message : 查看对正在编译的函数 模板 实例化“CELL::tmat4x4<float> CELL::tmat4x4<float>::rotateYXZ(T,T,T)”的引用
+          with
+          [
+              T=float
+          ]
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\ModelBoxNM.hpp(173): message : 查看对正在编译的 类 模板 实例化“CELL::tmat4x4<float>”的引用
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\CELLMath.hpp(2774,22): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\CELLMath.hpp(2775,22): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\CELLMath.hpp(2776,22): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\CELLMath.hpp(2777,22): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\source\normalMapping\CELLMath.hpp(2778,22): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  正在生成代码...
+glew.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  normalMapping.vcxproj -> F:\2.李燕良的学习资料\51.计算机图形学\多面解析OpenGL-Shader语言视频课程\shader-NormalMapping\bin\DebugWin32\normalMapping.exe
